@@ -1,2 +1,5 @@
 # guess-the-emoji
-A college project developed in Flutter to discover what the emojis mean as a text.
+
+A Quiz Game developed to a college project with Flutter.
+
+The quiz consists of guessing which movie the emojis represent
